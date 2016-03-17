@@ -13,6 +13,7 @@ gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
+gem 'acts_as_votable', '~> 0.10.0'
 
 
 group :development, :test do
